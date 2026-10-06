@@ -1,24 +1,28 @@
+# 🧩 Flutter Mini Projects
 
-# Flutter Mini Projects
-
-A collection of small Flutter projects created for learning and practicing Flutter development concepts.  
-Each folder contains a self-contained application focusing on specific widgets, layouts, or basic app functionality.
+A collection of focused Flutter applications built to demonstrate core Flutter UI, interaction, and application-development concepts.
 
 ## 📂 Projects Included
-- **Birthday Card App** – Displays a simple greeting card UI.  
-- **Business Card App** – Shows a personal business card with custom styling.  
-- **Basketball Counter App** – Keeps track of basketball scores for two teams.  
-- **BMI Calculator** – Calculates Body Mass Index based on user input.
+- **Birthday Card App** — greeting-card UI
+- **Business Card App** — personal business-card interface
+- **Basketball Counter App** — interactive score tracking
+- **BMI Calculator** — user input and BMI calculation
+
+## 🛠️ Tech Stack
+- **Flutter**
+- **Dart**
+- **Material Design**
 
 ## 🎯 Purpose
-These mini projects are designed to:
-- Practice Flutter basics.
-- Experiment with UI layouts and styling.
-- Build confidence in working with Dart and Flutter widgets.
+Each project focuses on a specific Flutter concept such as layouts, widgets, user input, state updates, and basic application logic.
 
-## 🛠 How to Run
-1. Open the desired project folder in your IDE.
-2. Run the following command:
-   ```bash
-   flutter pub get
-   flutter run
+## 🚀 Getting Started
+Open the desired project folder, then run:
+```bash
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Author
+**Ahmed Ashraf Mohammed Kamel**  
+Flutter Developer
